@@ -1,4 +1,4 @@
-# Adafruit nRF52 Bootloader
+# Cubic nRF52 Bootloader
 
 [![Build Status](https://travis-ci.com/adafruit/Adafruit_nRF52_Bootloader.svg?branch=master)](https://travis-ci.com/adafruit/Adafruit_nRF52_Bootloader)
 
@@ -15,6 +15,8 @@ This is a CDC/DFU/UF2 bootloader for nRF52 boards.
 - Particle Argon
 - Particle Boron
 - Particle Xenon
+- [Cubic nRF52832 Bluefruit52](https://www.afantor.cc)
+- [Cubic nRF52840 Bluebit54](https://www.afantor.cc)
 
 UF2 is an easy-to-use bootloader that appears as a flash drive. You can just copy `.uf2`-format
 application images to the flash drive to load new firmware.
